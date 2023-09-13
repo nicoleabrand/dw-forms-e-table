@@ -1,0 +1,69 @@
+#txtNome{
+    background-color:antiquewhite;
+    color: black;
+  }
+  #txtNome:focus{
+    background-color:darkgray;
+  }
+  #txtNum{
+    background-color:antiquewhite;
+    color: black;
+  }
+  #txtNum:focus{
+    background-color:darkgray;
+  }
+  #txtData{
+    background-color:antiquewhite;
+    color: black;
+  }
+  #txtData:focus{
+    background-color:darkgray;
+  }
+  #txtCor{
+    background-color:antiquewhite;
+    color: black;
+  }
+  #txtCor:focus{
+    background-color:darkgray;
+  }
+  #txtemail{
+    background-color:antiquewhite;
+    color: black;
+  }
+  #txtemail:focus{
+    background-color:darkgray;
+  }
+  #txtpass{
+    background-color:antiquewhite;
+    color: black;
+  }
+  #txtpass:focus{
+    background-color:darkgray;
+  }
+  #mes{
+    background-color:antiquewhite;
+    color: black;
+  }
+  #mes:focus{
+    background-color:darkgray;
+  }
+  #horanascimento{
+    background-color:antiquewhite;
+    color: black;
+  }
+  #horanascimento:focus{
+    background-color:darkgray;
+  }
+  #sitefav{
+    background-color:antiquewhite;
+    color: black;
+  }
+  #sitefav:focus{
+    background-color:darkgray;
+  }
+
+
+
+
+
+
